@@ -1,6 +1,6 @@
 import java.util.*;
 public class extractingdigitsinanumber {
-
+// using array list method 
     static ArrayList<Integer> digits(int N){
         ArrayList<Integer> ans=new ArrayList<>();
         while(N>0){
