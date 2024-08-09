@@ -37,3 +37,4 @@ public class printalldivisors {
 //         return sum;
 //     }
 // }
+// some cases still not passed completely 
